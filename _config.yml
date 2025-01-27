@@ -4,7 +4,7 @@ email: your-email@example.com
 description: > # this is a multiline description
   A simple site built with Jekyll and hosted on GitHub Pages.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://<username>.github.io" # your GitHub Pages URL
+url: "https://jarchuleta.github.io" # your GitHub Pages URL
 
 # Build settings
 markdown: kramdown
