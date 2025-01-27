@@ -1,0 +1,35 @@
+# Site settings
+title: My Jekyll Site
+email: your-email@example.com
+description: > # this is a multiline description
+  A simple site built with Jekyll and hosted on GitHub Pages.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://<username>.github.io" # your GitHub Pages URL
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-cayman # You can change this to any theme you like
+theme_features:
+  - navigation
+  - toc
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Social media links
+twitter_username: myusername
+github_username: myusername
+
+# Author info
+author:
+  name: "Your Name"
+  bio: "A passionate developer."
+
+# Disqus (optional, if you want comments on posts)
+disqus:
+  shortname: "your-disqus-shortname"
+
+# Google Analytics (optional)
+google_analytics: "UA-XXXXXXXXX-X"
